@@ -1,0 +1,43 @@
+@import url("normalize.css"); 
+
+body {background-color: black;}
+
+h1  {text-align:center;
+    font-size: 60pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: 00ff00;
+    clear: both;
+    margin: 5%;
+}
+
+
+p   {color: 00ff00;
+    
+    text-align: center;
+    font-size: 25px;
+    width: 490pt; 
+    margin: 5% auto;
+    font-family: Viaoda Libre; "Times New Roman";
+
+}
+
+li  {font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    text-align:center;
+    color: black;
+    text-decoration: none;
+    max-width: 100pt;
+    width: auto;
+
+    padding: 30px 30px;
+    background-image: linear-gradient(90deg, rgba(236,101,127,1) 0%, rgba(255,179,47,1) 29%, rgba(169,223,20,1) 56%, rgba(0,255,255,1) 100%);
+    border-radius: 100%;
+    margin: auto;
+}
+
+hr  {
+    
+    height: 3px;
+    background-image: linear-gradient(90deg, rgba(236,101,127,1) 0%, rgba(255,179,47,1) 29%, rgba(169,223,20,1) 56%, rgba(0,255,255,1) 100%);
+);
+}

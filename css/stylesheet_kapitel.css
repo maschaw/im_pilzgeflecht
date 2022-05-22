@@ -1,0 +1,130 @@
+@import url("normalize.css"); 
+
+@font-face {
+    src: url(fonts/SpaceGrotesk-Regular.ttf);
+    font-family: SpaceGrotesk-Regular;
+}
+
+@font-face {
+    src: url(fonts/Ogg-Roman.otf);
+    font-family: Ogg-Roman;
+}
+
+@font-face {
+    src: url(fonts/Ogg-Italic.otf);
+    font-family: Ogg-Italic;
+}
+
+a.Start-Button{
+    position: fixed;
+    top: 3%;
+    right: 2%;   
+    padding: 0;
+    margin: 0;
+}
+
+
+h2  {text-align: left;
+    font-family: Ogg-Roman;
+    font-size: 50pt;
+    line-height: 110%;
+    width: 50%;
+    clear: both;
+    margin: 2%;   
+}
+
+h3  {text-align: left;
+    font-family: Ogg-Roman;
+    font-size: 33pt;
+    line-height: 110%;
+    width: 66%;
+    clear: both;
+    margin: 2%;   
+}
+
+
+p   {
+    text-align: left;
+    font-size: 30px;
+    width: 66%; 
+    margin: 2% ;
+    line-height: 42px ;
+    font-family: SpaceGrotesk-Regular; "Arial";
+    hyphens: auto;
+}
+
+a   {
+    text-align: left;
+    font-size: 30px;
+    line-height: 42px ;
+    font-family: Ogg-Italic; cursive, sans-serif;
+    color: darkgreen;
+}
+
+
+
+a[title*="Fussnoten"]  { 
+     font-size: 12pt;
+}
+
+
+a.Quellenverzeichnis {
+    font-size: 12pt;
+    white-space: nowrap;  
+    line-height: 16pt;
+}
+
+
+ol {
+    float: left;
+    width: 66%;
+    align-items: left;
+    padding-left: 2%;
+}
+
+li  {font-family: SpaceGrotesk-Regular, cursive, sans-serif;
+    line-height: 16pt;
+    color: darkgreen;
+    list-style:none;
+    float: left;
+    display: inline;
+    margin-right: 1%;
+    white-space: nowrap;    
+}
+
+
+li a {
+    font-size: 12pt;  
+    line-height: 16pt;
+    padding-right: 0.3%;
+}
+
+p.Zitat {
+    margin: 2% 15% ;
+    width: 520pt;
+    font-size: 25px;
+}
+
+
+li.fussnote{
+    max-width: 490pt;
+    line-height: 16pt;
+    color: black;
+    text-align: left;
+    padding: 15px 5px 15px 0px;
+    float: none;
+    clear:both;
+}
+
+p.impressum{
+    width: 100%;
+    margin: 0;
+    font-size: 12pt;  
+    line-height: 16pt;
+}
+
+a.impressum{
+    
+    font-size: 12pt;
+    line-height: 16pt;
+}

@@ -1,0 +1,133 @@
+@import url("normalize.css"); 
+
+@font-face {
+    src: url(fonts/SpaceGrotesk-Regular.ttf);
+    font-family: SpaceGrotesk-Regular;
+}
+
+@font-face {
+    src: url(fonts/Ogg-Roman.otf);
+    font-family: Ogg-Roman;
+}
+
+@font-face {
+    src: url(fonts/Ogg-Italic.otf);
+    font-family: Ogg-Italic;
+}
+
+p.zurück{
+    font-size: 20px;
+    line-height: 140 % ;
+    font-family: Ogg-Italic; cursive, sans-serif;
+    color: darkgreen;
+    float: left;
+    
+}
+
+a.Start-Button{
+    position: fixed;
+    top: 3%;
+    right: 2%;   
+    padding: 0;
+    margin: 0;
+}
+
+h1  {text-align: left;
+    font-family: Sligoil-Micro;
+    font-size: 60pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+    clear: both;
+    margin: 15% 2% 2% 4%;
+    
+    
+}
+
+h2  {text-align: left;
+    font-family: Ogg-Roman;
+    font-size: 50pt;
+    line-height: 110%;
+    width: 50%;
+    margin: 2%; 
+    display: inherit;
+    display: flex;
+}
+
+
+p   {
+    text-align: left;
+    font-size: 30px;
+    width: 66%; 
+    margin: 2% ;
+    line-height: 140 % ;
+    font-family: SpaceGrotesk-Regular; "Arial";
+    hyphens: auto;
+}
+
+a   {
+    text-align: left;
+    font-size: 20px;
+    line-height: 140 % ;
+    font-family: Ogg-Italic; cursive, sans-serif;
+    color: darkgreen;
+}
+
+    
+    
+p.Quellen   {
+    text-align: left;
+    font-size: 20px;
+    width: 66%; 
+    margin: 2% ;
+    line-height: 140 % ;
+    font-family: SpaceGrotesk-Regular; "Arial";
+     hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+
+a.Quellen {
+    font-family: Ogg-Italic, cursive, sans-serif;
+    color: darkgreen;
+}    
+    
+ol {
+    float: left;
+    width: 66%;
+    align-items: left;
+    padding-left: 2%;
+}
+
+li  {font-family: SpaceGrotesk-Regular, cursive, sans-serif;
+    font-size: 14px;
+    line-height: 150 % ;
+    color: darkgreen;
+    list-style:none;
+    float: left;
+    display: inline;
+    margin-right: 1%;
+    white-space: nowrap;
+
+}
+
+
+p.Zitat {
+    margin: 2% 15% ;
+    width: 520pt;
+    font-size: 25px;
+}
+
+
+a.aktuell{color: darkgreen;
+}
+
+p.impressum{
+    width: 100%;
+    margin: 0;
+    font-size: 12pt;   
+}
+
+a.impressum{
+    
+    font-size: 12pt;
+}
