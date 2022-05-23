@@ -1,17 +1,17 @@
 @import url("normalize.css"); 
 
 @font-face {
-    src: url(fonts/SpaceGrotesk-Regular.ttf);
+    src: url(fonts/SpaceGrotesk-Regular.woff2);
     font-family: SpaceGrotesk-Regular;
 }
 
 @font-face {
-    src: url(fonts/Ogg-Roman.otf);
+    src: url(fonts/Ogg-Roman.woff);
     font-family: Ogg-Roman;
 }
 
 @font-face {
-    src: url(fonts/Ogg-Italic.otf);
+    src: url(fonts/Ogg-Italic.woff);
     font-family: Ogg-Italic;
 }
 
@@ -57,7 +57,7 @@ a   {
     text-align: left;
     font-size: 30px;
     line-height: 42px ;
-    font-family: Ogg-Italic; cursive, sans-serif;
+    font-family: Ogg-Italic, cursive, sans-serif;
     color: darkgreen;
 }
 
