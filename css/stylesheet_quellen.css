@@ -18,7 +18,7 @@
 p.zurück{
     font-size: 20px;
     line-height: 140 % ;
-    font-family: Ogg-Italic; cursive, sans-serif;
+    font-family: Ogg-Italic, cursive, serif;
     color: darkgreen;
     float: left;
     
@@ -32,19 +32,9 @@ a.Start-Button{
     margin: 0;
 }
 
-h1  {text-align: left;
-    font-family: Sligoil-Micro;
-    font-size: 60pt;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    color: blue;
-    clear: both;
-    margin: 15% 2% 2% 4%;
-    
-    
-}
 
 h2  {text-align: left;
-    font-family: Ogg-Roman;
+    font-family: Ogg-Roman, serif;
     font-size: 50pt;
     line-height: 110%;
     width: 50%;
@@ -60,7 +50,7 @@ p   {
     width: 66%; 
     margin: 2% ;
     line-height: 140 % ;
-    font-family: SpaceGrotesk-Regular; "Arial";
+    font-family: SpaceGrotesk-Regular, "Helvetica", sans-serif;
     hyphens: auto;
 }
 
@@ -68,7 +58,7 @@ a   {
     text-align: left;
     font-size: 20px;
     line-height: 140 % ;
-    font-family: Ogg-Italic; cursive, sans-serif;
+    font-family: Ogg-Italic, cursive, serif;
     color: darkgreen;
 }
 
@@ -80,14 +70,14 @@ p.Quellen   {
     width: 66%; 
     margin: 2% ;
     line-height: 140 % ;
-    font-family: SpaceGrotesk-Regular; "Arial";
+    font-family: SpaceGrotesk-Regular, "Helvetica", sans-serif;
      hyphens: auto;
     -webkit-hyphens: auto;
 }
 
 
 a.Quellen {
-    font-family: Ogg-Italic, cursive, sans-serif;
+    font-family: Ogg-Italic, cursive, serif;
     color: darkgreen;
 }    
     
@@ -98,7 +88,7 @@ ol {
     padding-left: 2%;
 }
 
-li  {font-family: SpaceGrotesk-Regular, cursive, sans-serif;
+li  {font-family: SpaceGrotesk-Regular, "Helvetica", sans-serif;
     font-size: 14px;
     line-height: 150 % ;
     color: darkgreen;
@@ -111,15 +101,6 @@ li  {font-family: SpaceGrotesk-Regular, cursive, sans-serif;
 }
 
 
-p.Zitat {
-    margin: 2% 15% ;
-    width: 520pt;
-    font-size: 25px;
-}
-
-
-a.aktuell{color: darkgreen;
-}
 
 p.impressum{
     width: 100%;

@@ -41,7 +41,7 @@
 
 
 h1  {text-align: center;
-        font-family: Ogg-Italic;
+        font-family: Ogg-Roman, serif;
         font-size: 80pt;
         line-height: 110%;
         color: darkgreen;
@@ -50,7 +50,7 @@ h1  {text-align: center;
      }
 p {
         text-align: center;
-        font-family: SpaceGrotesk-Regular;
+        font-family: SpaceGrotesk-Regular, "Helvetica", sans-serif;
         font-size: 20pt;
         width: 66%;
         margin: auto;
@@ -70,6 +70,6 @@ body{
 
 a {
      font-size: 30px;
-    font-family: Ogg-Italic; cursive, sans-serif;
+    font-family: Ogg-Italic, cursive, serif;
     color: darkgreen;
 }
