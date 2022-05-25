@@ -8,12 +8,12 @@
 }
 
 @font-face {
-    src: url(fonts/Ogg-Roman.woff);
+    src: url(../fonts/Ogg-Roman.woff);
     font-family: Ogg-Roman;
 }
 
 @font-face {
-    src: url(fonts/Ogg-Italic.woff);
+    src: url("../fonts/Ogg-Italic.woff");
     font-family: Ogg-Italic;
 }
 
