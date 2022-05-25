@@ -1,7 +1,5 @@
 @import url("normalize.css"); 
 
-@import url(//db.onlinewebfonts.com/c/2596224269750e00c3ad5356299a3b9f?family=Ogg);
-
 @font-face {
     src: url(fonts/SpaceGrotesk-Regular.woff2);
     font-family: SpaceGrotesk-Regular;
@@ -13,7 +11,7 @@
 }
 
 @font-face {
-    src: url("../fonts/Ogg-Italic.woff");
+    src: url(../fonts/Ogg-Italic.woff);
     font-family: Ogg-Italic;
 }
 
